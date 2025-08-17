@@ -4,6 +4,7 @@
 This project is a Python-based application for managing Customer Payment Details using MongoDB as the database and Tkinter for the graphical user interface (GUI). It provides functionality to perform CRUD operations (Create, Read, Update, and Delete) on customer payment data stored in a MongoDB database.
 
 🖼️ Screenshots
+<img width="912" height="732" alt="image" src="https://github.com/user-attachments/assets/bf16f177-f25b-4839-97b9-64447ff52e95" />
 
 
 🚀 Features
